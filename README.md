@@ -16,7 +16,8 @@ conversation. You write the code at your own pace, then walk us through it.
 3. You work through the tasks in `tasks/`, committing as you go.
 4. You open a pull request **inside your own copy of the repo** — do not
    merge it.
-5. You invite our reviewers and email us when you are ready.
+5. You invite us as collaborators on your repository and email us when you
+   are ready.
 
 ## Step 1 — Create Your Own Copy
 
@@ -72,15 +73,19 @@ repository** when you're done. Targets:
 **Do not merge the PR.** Leave it open — we will use the diff and the file
 tree of the PR as the focal point of the interview conversation.
 
-## Step 5 — Invite Our Reviewers
+## Step 5 — Invite Us As Collaborators
 
-On the pull request page, add the following reviewers:
+Because your repository is private, we can't view your work — or be added as
+PR reviewers — until you grant us access. Go to your repository's
+**Settings → Collaborators → Add people** and invite both of the following
+GitHub users with **Read** access:
 
 - `hajarada`
 - `jrfdelgado`
 
 Then send a short email to **cxe-internship-fy27@cisco.com** with the URL of
-your pull request. We'll schedule the walkthrough from there.
+your pull request. We'll accept the invitations and schedule the walkthrough
+from there.
 
 ## What We're Looking For
 
