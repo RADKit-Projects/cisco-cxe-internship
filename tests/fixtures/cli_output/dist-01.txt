@@ -1,0 +1,65 @@
+Capability codes:
+    (R) Router, (B) Bridge, (T) Telephone, (C) DOCSIS Cable Device
+    (W) WLAN Access Point, (P) Repeater, (S) Station, (O) Other
+
+------------------------------------------------
+Local Intf: GigabitEthernet1/0/1
+Chassis id: aabb.cc00.0002
+Port id: GigabitEthernet1/0/2
+Port Description: Uplink to core-01
+System Name: core-01.cxelab.example
+System Description:
+Cisco IOS Software, CXE-9500 Software, Version FAKE-17.9.1
+
+Time remaining: 117 seconds
+System Capabilities: Bridge, Router
+Enabled Capabilities: Bridge, Router
+Management Addresses:
+    IP: 10.99.1.2
+
+------------------------------------------------
+Local Intf: GigabitEthernet1/0/10
+Chassis id: aabb.cc00.0004
+Port id: GigabitEthernet1/0/10
+Port Description: Inter-dist link
+System Name: dist-02.cxelab.example
+System Description:
+Cisco IOS Software, CXE-9500-24Y Software, Version FAKE-17.9.1
+
+Time remaining: 115 seconds
+System Capabilities: Bridge, Router
+Enabled Capabilities: Bridge, Router
+Management Addresses:
+    IP: 10.99.1.4
+
+------------------------------------------------
+Local Intf: GigabitEthernet1/0/11
+Chassis id: aabb.cc00.0011
+Port id: GigabitEthernet1/0/1
+Port Description: Downlink to acc-01
+System Name: acc-01.cxelab.example
+System Description:
+Cisco IOS Software, CXE-9300-48P Software, Version FAKE-17.9.1
+
+Time remaining: 110 seconds
+System Capabilities: Bridge
+Enabled Capabilities: Bridge
+Management Addresses:
+    IP: 10.99.1.11
+
+------------------------------------------------
+Local Intf: GigabitEthernet1/0/12
+Chassis id: aabb.cc00.0012
+Port id: GigabitEthernet1/0/1
+Port Description: Downlink to acc-02
+System Name: acc-02.cxelab.example
+System Description:
+Cisco IOS Software, CXE-9300-48P Software, Version FAKE-17.9.1
+
+Time remaining: 110 seconds
+System Capabilities: Bridge
+Enabled Capabilities: Bridge
+Management Addresses:
+    IP: 10.99.1.12
+
+Total entries displayed: 4

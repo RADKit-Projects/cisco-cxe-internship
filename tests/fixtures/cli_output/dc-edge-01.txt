@@ -1,0 +1,50 @@
+Capability codes:
+    (R) Router, (B) Bridge, (T) Telephone, (C) DOCSIS Cable Device
+    (W) WLAN Access Point, (P) Repeater, (S) Station, (O) Other
+
+------------------------------------------------
+Local Intf: GigabitEthernet1/0/1
+Chassis id: aabb.cc00.0030
+Port id: GigabitEthernet1/0/1
+Port Description: LAG member Po1 to spine-01
+System Name: spine-01.cxelab.example
+System Description:
+Cisco IOS Software, CXE-SPINE-32C Software, Version FAKE-17.9.1
+
+Time remaining: 118 seconds
+System Capabilities: Bridge, Router
+Enabled Capabilities: Bridge, Router
+Management Addresses:
+    IP: 10.99.1.30
+
+------------------------------------------------
+Local Intf: GigabitEthernet1/0/2
+Chassis id: aabb.cc00.0030
+Port id: GigabitEthernet1/0/2
+Port Description: LAG member Po1 to spine-01
+System Name: spine-01.cxelab.example
+System Description:
+Cisco IOS Software, CXE-SPINE-32C Software, Version FAKE-17.9.1
+
+Time remaining: 118 seconds
+System Capabilities: Bridge, Router
+Enabled Capabilities: Bridge, Router
+Management Addresses:
+    IP: 10.99.1.30
+
+------------------------------------------------
+Local Intf: GigabitEthernet1/0/3
+Chassis id: aabb.cc00.0031
+Port id: GigabitEthernet1/0/1
+Port Description: Uplink to spine-02
+System Name: spine-02.cxelab.example
+System Description:
+Cisco IOS Software, CXE-SPINE-32C Software, Version FAKE-17.9.1
+
+Time remaining: 118 seconds
+System Capabilities: Bridge, Router
+Enabled Capabilities: Bridge, Router
+Management Addresses:
+    IP: 10.99.1.31
+
+Total entries displayed: 3

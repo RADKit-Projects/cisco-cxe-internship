@@ -1,0 +1,20 @@
+Capability codes:
+    (R) Router, (B) Bridge, (T) Telephone, (C) DOCSIS Cable Device
+    (W) WLAN Access Point, (P) Repeater, (S) Station, (O) Other
+
+------------------------------------------------
+Local Intf: GigabitEthernet1/0/1
+Chassis id: aabb.cc00.0003
+Port id: GigabitEthernet1/0/11
+Port Description: Uplink to dist-01
+System Name: dist-01.cxelab.example
+System Description:
+Cisco IOS Software, CXE-9500-24Y Software, Version FAKE-17.9.1
+
+Time remaining: 116 seconds
+System Capabilities: Bridge, Router
+Enabled Capabilities: Bridge, Router
+Management Addresses:
+    IP: 10.99.1.3
+
+Total entries displayed: 1

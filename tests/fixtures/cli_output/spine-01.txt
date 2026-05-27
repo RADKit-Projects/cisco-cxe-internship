@@ -1,0 +1,69 @@
+Capability codes:
+    (R) Router, (B) Bridge, (T) Telephone, (C) DOCSIS Cable Device
+    (W) WLAN Access Point, (P) Repeater, (S) Station, (O) Other
+
+------------------------------------------------
+Local Intf: GigabitEthernet1/0/1
+Chassis id: aabb.cc00.0020
+Port id: GigabitEthernet1/0/1
+Port Description: LAG member Po1 to dc-edge-01
+System Name: dc-edge-01.cxelab.example
+System Description:
+Cisco IOS Software, CXE-9500 Software,
+Version FAKE-17.9.1, Compiled on Mon 14-Feb-26 by mcpre
+RELEASE SOFTWARE (fc1)
+
+Time remaining: 117 seconds
+System Capabilities: Bridge, Router
+Enabled Capabilities: Bridge, Router
+Management Addresses:
+    IP: 10.99.1.20
+
+------------------------------------------------
+Local Intf: GigabitEthernet1/0/2
+Chassis id: aabb.cc00.0020
+Port id: GigabitEthernet1/0/2
+Port Description: LAG member Po1 to dc-edge-01
+System Name: dc-edge-01.cxelab.example
+System Description:
+Cisco IOS Software, CXE-9500 Software,
+Version FAKE-17.9.1, Compiled on Mon 14-Feb-26 by mcpre
+RELEASE SOFTWARE (fc1)
+
+Time remaining: 117 seconds
+System Capabilities: Bridge, Router
+Enabled Capabilities: Bridge, Router
+Management Addresses:
+    IP: 10.99.1.20
+
+------------------------------------------------
+Local Intf: GigabitEthernet1/0/10
+Chassis id: aabb.cc00.0040
+Port id: GigabitEthernet1/0/1
+Port Description: Downlink to leaf-01
+System Name: leaf-01.cxelab.example
+System Description:
+Cisco IOS Software, CXE-LEAF-48Y Software, Version FAKE-17.9.1
+
+Time remaining: 112 seconds
+System Capabilities: Bridge, Router
+Enabled Capabilities: Bridge, Router
+Management Addresses:
+    IP: 10.99.1.40
+
+------------------------------------------------
+Local Intf: GigabitEthernet1/0/11
+Chassis id: aabb.cc00.0041
+Port id: GigabitEthernet1/0/1
+Port Description: Downlink to leaf-02
+System Name: leaf-02.cxelab.example
+System Description:
+Cisco IOS Software, CXE-LEAF-48Y Software, Version FAKE-17.9.1
+
+Time remaining: 112 seconds
+System Capabilities: Bridge, Router
+Enabled Capabilities: Bridge, Router
+Management Addresses:
+    IP: 10.99.1.41
+
+Total entries displayed: 4
