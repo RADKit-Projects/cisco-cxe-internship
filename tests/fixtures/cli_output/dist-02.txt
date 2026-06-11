@@ -63,6 +63,21 @@ Management Addresses:
     IP: 10.99.1.14
 
 ------------------------------------------------
+Local Intf: GigabitEthernet1/0/15
+Chassis id: aabb.cc00.0015
+Port id: GigabitEthernet1/0/1
+Port Description: Downlink to acc-05
+System Name: acc-05.cxelab.example
+System Description:
+Cisco IOS Software, CXE-9300-48P Software, Version FAKE-17.9.1
+
+Time remaining: 110 seconds
+System Capabilities: Bridge
+Enabled Capabilities: Bridge
+Management Addresses:
+    IP: 10.99.1.15
+
+------------------------------------------------
 Local Intf: GigabitEthernet1/0/24
 Chassis id: aabb.cc00.0020
 Port id: GigabitEthernet1/0/2
@@ -77,4 +92,4 @@ Enabled Capabilities: Bridge, Router
 Management Addresses:
     IP: 10.99.1.20
 
-Total entries displayed: 5
+Total entries displayed: 6
